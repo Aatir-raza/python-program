@@ -1,0 +1,8 @@
+print(8)
+print(1e308)
+print(8)
+print(1e309)
+print(8.55)
+print(1.7e308)
+print(8.55)
+print(1.7e309)
